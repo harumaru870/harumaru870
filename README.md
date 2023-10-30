@@ -4,7 +4,7 @@
 
 2. My favorites are React, TypeScript, Python ,Javascript(Google Apps Script)
 
-3. You can find my Qiita Blog [here]([https://zenn.dev/manase](https://qiita.com/harumaru870))
+3. You can find my Qiita Blog [here](https://qiita.com/harumaru870)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=harumaru870&show_icons=true&locale=en&layout=compact)
 
