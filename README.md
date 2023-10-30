@@ -1,16 +1,13 @@
-### Hi there 👋
+# About Me
 
-<!--
-**harumaru870/harumaru870** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1. I'm a high school student from Japan
 
-Here are some ideas to get you started:
+2. My favorites are React, TypeScript, Python ,Javascript(Google Apps Script)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+3. You can find my Qiita Blog [here]([https://zenn.dev/manase](https://qiita.com/harumaru870))
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=harumaru870&show_icons=true&locale=en&layout=compact)
+
+## favorite tools
+
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,react,aws,ae,figma,ai,vercel,ps,vscode" /> <br /><br />
