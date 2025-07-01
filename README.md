@@ -1,6 +1,6 @@
 # About Me
 
-1. I was a high school student from Japan
+1. I was a Univercity student from Japan
 
 2. My favorites are React, TypeScript, Python ,Javascript(Google Apps Script)
 
